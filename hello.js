@@ -4,4 +4,4 @@ const sayHello = function (name){
 
 sayHello("World");
 sayHello("Jimmy");
-sayHello("Clara");
+sayHello("Clara");  
